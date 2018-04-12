@@ -3,5 +3,7 @@ zajêcia z GIT
 test konfliktu
 drugi commit
 
+abcd
+
 siema siema Oliwia Kowalczyk 
 siema
