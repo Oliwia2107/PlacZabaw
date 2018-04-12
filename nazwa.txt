@@ -7,3 +7,5 @@ abcd
 
 siema siema Oliwia Kowalczyk 
 siema
+
+dadno komentarz
